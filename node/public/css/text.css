@@ -1,0 +1,53 @@
+.text0{
+    width:500px;
+    height: 200px;
+}
+.text1, .text2 ,.text3, .text4{
+    width:300px;
+    height: 300px;
+}
+.text5 ,.text6 ,.text7 ,.text8{
+    width:300px;
+    height: 300px;
+}
+
+.shuxian {
+    left: 100px;
+    width: 200px;
+    height: 15px;
+    margin-top: 100px;
+    border-bottom: 1px solid #999;
+    transform: rotate(90deg);
+}
+
+.xie1{
+    width: 300px;
+    height: 1px;
+    margin-top: 100px;
+    border-bottom: 1px solid #999;
+    transform: rotate(150deg);
+}
+.xie2{
+    width: 170px;
+    height: 1px;
+    margin-top: 100px;
+    border-bottom: 1px solid #999;
+    transform: rotate(120deg);
+}
+.xie3{
+    width: 170px;
+    height: 1px;
+    margin-top: 100px;
+    border-bottom: 1px solid #999;
+    transform: rotate(60deg);
+}
+.xie4{
+    width: 200px;
+    height: 1px;
+    margin-top: 100px;
+    border-bottom: 1px solid #999;
+    transform: rotate(45deg);
+}
+textarea{
+   resize:none;
+}

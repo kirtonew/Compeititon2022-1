@@ -1,0 +1,25 @@
+#div1, #div2, #div3,#div4,#div5,#div6{
+    display: inline-block;
+    width: 200px;
+    
+}
+img {
+ 
+    border-radius: 50px;
+    width: 400px;
+}
+a{
+    text-decoration:none;
+}
+marquee{
+    scrollamount:100;
+   
+}
+video{
+    float: left;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}

@@ -1,0 +1,36 @@
+#div1, #div2, #div3,#div4,#div5,#div6{
+    display: inline-block;
+    width: 200px;
+    
+}
+img {
+    float: left;
+    width: 400px;
+}
+a{
+    text-decoration:none;
+}
+
+.table{
+    display: table; 
+    border-collapse: collapse;
+    width: 1000px;
+    height: 200px;
+}
+.tr{
+    display: table-row;
+    height: 100px;
+}
+.td{
+    display: table-cell;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    border: solid 1px red;
+    table-layout: fixed;
+}
+.table .td img{
+    width: 100px;
+    height: 100px;
+    display:block;
+}

@@ -1,0 +1,13 @@
+#div1, #div2, #div3,#div4,#div5,#div6{
+    display: inline-block;
+    width: 200px;
+    
+}
+img {
+    float: left;
+    border-radius: 50px;
+    width: 400px;
+}
+a{
+    text-decoration:none;
+}
